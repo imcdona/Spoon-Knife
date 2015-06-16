@@ -1,6 +1,6 @@
 ### Well hello there!
 
-I forked it.
+I forked it. And then made a change on another computer.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
